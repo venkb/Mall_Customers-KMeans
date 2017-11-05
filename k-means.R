@@ -2,7 +2,7 @@
 library(stats)#to build k-means clusters
 library(cluster)#to build cluster plot
 
-setwd('C:\\Venkat\\Github\\K-Means')
+#setwd('set the folder that contains Mall_Customers.csv')
 dataset_full = read.csv('Mall_Customers.csv')
 
 #for the ease of cluster representation lets pick two features to determine the clusters
