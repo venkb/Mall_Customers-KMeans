@@ -40,6 +40,6 @@ clusplot(x = dataset,
          color = TRUE,
          labels = 4,
          span = TRUE,
-         main = 'k-means cluster plot',
+         main = 'K-Means Cluster Plot',
          xlab = 'Salary',
          ylab = 'Spending Score')
